@@ -14,6 +14,6 @@ public class Oak3 {
 
     @Override
     public String toString() {
-        return ", на дереве заяц " + rabbit.toString();
+        return "на дереве заяц, " + rabbit.toString();
     }
 }
